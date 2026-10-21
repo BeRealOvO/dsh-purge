@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "state": "no-dependencies",
+  "plugin": "dsh-purge",
+  "version": "1.1.71",
+  "archiveSha256": "b731757e6ae7221f160a15591ae72f94b4a247b122f3d712ee011fe27284787f",
+  "manifestSha256": "0a67cd6d5a76bedb757d99228db634c88d6123ae35e9681d5b43d80e12726789",
+  "treeSha256": "ca9e58051545af4bce10da6f5a75ce80b1aac96ee09f6549842107858db5c9a8",
+  "resolved": [],
+  "lockSha256": "",
+  "manager": "pnpm",
+  "managerVersion": "not-executed",
+  "integrity": "actual file tree SHA-256 and native pnpm lockfile",
+  "runtimeDsh": "0.1.7-rc.2"
+}
